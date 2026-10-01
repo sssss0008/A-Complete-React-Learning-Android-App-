@@ -1,0 +1,6 @@
+{
+  "name": "Learn React",
+  "description": "Master React with interactive labs, playground, visualizers, debugging challenges, and real-world projects by Awiskar Acharya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
